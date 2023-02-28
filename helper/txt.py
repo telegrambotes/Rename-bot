@@ -26,11 +26,12 @@ License Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT/blob/
 
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ Gangster Hacking... ❱━➣
-┣⪼ 🗂️ : {1} | {2}
-┣⪼ ⏳️ : {0}%
-┣⪼ 🚀 : {3}/s
-┣⪼ ⏱️ : {4}
+╭━━━━❰ @Tamilan24 Hacking... ❱━➣
+┣
+┣⪼ 🎥 : {1} | {2}
+┣⪼ 🤾‍♂ : {0}%
+┣⪼ 🌊 : {3}/s
+┣⪼ ⌚️ : {4}
 ╰━━━━━━━━━━━━━━━➣ """
 
     ABOUT_TXT = """
