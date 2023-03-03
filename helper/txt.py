@@ -75,9 +75,9 @@ Example:- /set_caption 📕 File Name: {filename}
 
 » ❣️Source Code : <a href=https://github.com/Gubera24/Gang-Horror>Repo</a>
 
-• 😈 <a href=https://t.me/Tamilanda29>Owner</a>
-• 😈 <a href=https://t.me/Tamilanda35>Co-Owner</a>
-• 😈 <a href=https://github.com/Gubera24>Github</a>
-• 😈 <a href=https://t.me/+-dxpAX6SVhliMGVl>Horror Movie's Tamil</a>
-• 😈 <a href=https://t.me/thesoulesssoul>valuable Patner</a>
+• 👻 <a href=https://t.me/Tamilanda29>Owner</a>
+• 👻 <a href=https://t.me/Tamilanda35>Co-Owner</a>
+• 👻 <a href=https://github.com/Gubera24>Github</a>
+• 👻 <a href=https://t.me/+-dxpAX6SVhliMGVl>Horror Movie's Tamil</a>
+• 👻 <a href=https://t.me/thesoulesssoul>valuable Patner</a>
 """
