@@ -29,8 +29,8 @@ class mr(object):
 ╭━━━━❰ @Tamilan24 Hacking... ❱━➣
 ┣
 ┣⪼ 🎥 : {1} | {2}
-┣⪼ 🤾‍♂ : {0}%
-┣⪼ 🌊 : {3}/s
+┣⪼ 📸 : {0}%
+┣⪼ 🚀 : {3}/s
 ┣⪼ ⌚️ : {4}
 ╰━━━━━━━━━━━━━━━➣ """
 
@@ -78,6 +78,6 @@ Example:- /set_caption 📕 File Name: {filename}
 • 👻 <a href=https://t.me/Tamilanda29>Owner</a>
 • 👻 <a href=https://t.me/Tamilanda35>Co-Owner</a>
 • 👻 <a href=https://github.com/Gubera24>Github</a>
-• 👻 <a href=https://t.me/+-dxpAX6SVhliMGVl>Horror Movie's Tamil</a>
+• 👻 <a href=https://t.me/+gcjBVRjoRZcwYTQ1>Horror Movie's Tamil</a>
 • 👻 <a href=https://t.me/thesoulesssoul>valuable Patner</a>
 """
