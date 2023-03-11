@@ -41,13 +41,13 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("😈 Developer 😈", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/+-dxpAX6SVhliMGVl'),
+        InlineKeyboardButton('📢 Updates', url='https://t.me/+gcjBVRjoRZcwYTQ1'),
         InlineKeyboardButton('🤝 Support', url='https://t.me/Tamilan41')
         ],[
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("👻 Horror Movie's Tamil  ", url='https://t.me/+J7F6aapY89hiYjVl')
+        InlineKeyboardButton("👻 Horror Movie's Tamil  ", url='https://t.me/+gcjBVRjoRZcwYTQ1')
         ],[
         InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+J7F6aapY89hiYjVl')
         ],[
@@ -78,14 +78,14 @@ async def rename_start(client, message):
     fileid = file.file_id
     try:
         text = f"""**__What do you want me to do with this file.?__**\n\n**File Name** :- `{filename}`\n\n**File Size** :- `{filesize}`"""
-        buttons = [[ InlineKeyboardButton("📝 𝚂𝚃𝙰𝚁𝚃 𝚁𝙴𝙽𝙰𝙼𝙴 📝", callback_data="rename") ],
+        buttons = [[ InlineKeyboardButton("📝 START HACKING  📝", callback_data="rename") ],
                    [ InlineKeyboardButton("✖️ 𝙲𝙰𝙽𝙲𝙴𝙻 ✖️", callback_data="cancel") ]]
         await message.reply_text(text=text, reply_to_message_id=message.id, reply_markup=InlineKeyboardMarkup(buttons))
         await sleep(FLOOD)
     except FloodWait as e:
         await sleep(e.value)
         text = f"""**__What do you want me to do with this file.?__**\n\n**File Name** :- `{filename}`\n\n**File Size** :- `{filesize}`"""
-        buttons = [[ InlineKeyboardButton("📝 𝚂𝚃𝙰𝚁𝚃 𝚁𝙴𝙽𝙰𝙼𝙴 📝", callback_data="rename") ],
+        buttons = [[ InlineKeyboardButton("📝 START HACKING 📝", callback_data="rename") ],
                    [ InlineKeyboardButton("✖️ 𝙲𝙰𝙽𝙲𝙴𝙻 ✖️", callback_data="cancel") ]]
         await message.reply_text(text=text, reply_to_message_id=message.id, reply_markup=InlineKeyboardMarkup(buttons))
     except:
@@ -100,13 +100,13 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
         InlineKeyboardButton("😈 Developer 😈", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 Updates', url='https://t.me/+-dxpAX6SVhliMGVl'),
+        InlineKeyboardButton('📢 Updates', url='https://t.me/+gcjBVRjoRZcwYTQ1'),
         InlineKeyboardButton('🤝 Support', url='https://t.me/Tamilan41')
         ],[
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("👻 Horror Movie's Tamil ", url='https://t.me/+-dxpAX6SVhliMGVl')
+        InlineKeyboardButton("👻 Horror Movie's Tamil ", url='https://t.me/+gcjBVRjoRZcwYTQ1')
         ],[
         InlineKeyboardButton("❤️‍🔥 Disney + Hotstar Tamil  !", url='https://t.me/+J7F6aapY89hiYjVl')
         ],[
@@ -125,9 +125,9 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://t.me/Tamilanda29")
                ],[
-               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+-dxpAX6SVhliMGVl')
+               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+gcjBVRjoRZcwYTQ1')
                ],[
-               InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+-dxpAX6SVhliMGVl")
+               InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+gcjBVRjoRZcwYTQ1")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -142,9 +142,9 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/Tamilanda29")
                ],[
-               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+-dxpAX6SVhliMGVl')
+               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+gcjBVRjoRZcwYTQ1')
                ],[
-                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+-dxpAX6SVhliMGVl")
+                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+gcjBVRjoRZcwYTQ1")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -156,7 +156,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Developer ❣️", url="https://www.instagram.com/LazyDeveloperrr")
+               InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/Tamilanda29")
                ],[
                InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+-dxpAX6SVhliMGVl')
                ],[
