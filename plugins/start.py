@@ -158,9 +158,9 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ Developer ❣️", url="https://t.me/Tamilanda29")
                ],[
-               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+-dxpAX6SVhliMGVl')
+               InlineKeyboardButton("🌽 Horror 🌽", url='https://t.me/+gcjBVRjoRZcwYTQ1')
                ],[
-                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+-dxpAX6SVhliMGVl")
+                InlineKeyboardButton("👻 Horror Movie's Tamil 👻", url="https://t.me/+gcjBVRjoRZcwYTQ1")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
